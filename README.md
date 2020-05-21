@@ -25,7 +25,7 @@ description: Human Information Interaction and Information Retrieval
 
 ## 👤Biography
 
-Hideo Joho is an Associate Professor in the Faculty of Library, Information and Media Science, University of Tsukuba, Japan.
+Hideo Joho is an Associate Professor in the Faculty of Library, Information and Media Science, University of Tsukuba, Japan. His research focuses on the user-centered aspects of information interaction and information retrieval. Recent projects include Conversational Search, Lifelogging, and Temporal IR. He received his MSc and PhD degrees from Information School, University of Sheffield, UK, in 1999 and 2007, respectively. Prior to join University of Tsukuba in 2009, Dr. Joho was a post-doctoral researcher at Computing School, University of Glasgow, UK. He was a visiting associate professor at School of Computer Science and Information Technology, RMIT University, Australia \(2016-2017\) and National Institute of Informatics, Japan \(2011-2018\). Dr. Joho is a co-funding member and the first Chair of Tokyo ACM SIGIR Chapter, and a Lifetime Professional Member of ACM. In 2019, he received the Best Faculty Award from University of Tsukuba for his research achievements. His h-index is 30 as of 1st May 2020 \(Google Scholar\).
 
 ## 🌐Find Me Elsewhere
 
