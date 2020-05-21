@@ -1,4 +1,12 @@
+---
+description: Human Information Interaction and Information Retrieval
+---
+
 # Welcome
+
+## 💡Did you know...?
+
+> Somebody's success is not your failure. Somebody's wrongdoing is not your indulgence.
 
 ## 📢Announcement
 
