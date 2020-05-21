@@ -1,22 +1,25 @@
 # Welcome
 
-## 📣Information
+## 📢Announcement
 
-## 📰Recent Updates
+* 📆 [CLEF 2020](https://clef2020.clef-initiative.eu/) will be held online between 22 and 25th September 2020
+* 📆 [SIGIR 2020](http://sigir.org/sigir2020/) will be held online between 25 and 30th July 2020
+
+## 🐾Recent Updates
 
 | Date | Category | Event |
 | :--- | :--- | :--- |
-| 2020.05.21 | Misc | Website renewed |
-| 2020.05.20 | Community | SIGIR 2020 Best Paper Committee \(Short Papers\) |
-| 2020.05.01 | Publication | SIGIR 2020 DC Paper Accepted \(Yanpeng Lin\) |
-| 2020.04.27 | Teaching | Spring Semester Lectures/Lab Started |
-| 2020.03.24 | Lab | Joint Workshop with KASYS Lab and Y-Lab |
+| 2020.05.21 | 🏡Misc | Website renewed 🎊 |
+| 2020.05.20 | 🏛Community | SIGIR 2020 Best Paper Committee \(Short Papers\) |
+| 2020.05.01 | 💎Publication | SIGIR 2020 DC Paper Accepted \(Yanpeng Lin\) 🎉 |
+| 2020.04.27 | 🥋Teaching | Spring Semester Lectures/Lab Started |
+| 2020.03.24 | ⚗Lab | Joint Workshop with KASYS Lab and Y-Lab |
 
-## 🍀Biography
+## 👤Biography
 
 Hideo Joho is an Associate Professor in the Faculty of Library, Information and Media Science, University of Tsukuba, Japan.
 
-## 🔦Find Me Elsewhere
+## 🌐Find Me Elsewhere
 
 * [Hideo Joho - Google Scholar Citations](https://scholar.google.com/citations?user=8W8gwisAAAAJ&hl=en)
 * [Hideo Joho - dblp](https://dblp.org/pers/j/Joho:Hideo.html)
