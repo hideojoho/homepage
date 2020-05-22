@@ -1,5 +1,7 @@
 ---
-description: Human Information Interaction and Information Retrieval
+description: >-
+  Studying Human Information Interaction since 2000 at Sheffield, Glasgow,
+  Melbourne, and Tsukuba.
 ---
 
 # Welcome
