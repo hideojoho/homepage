@@ -11,9 +11,9 @@ description: >-
 * 📆 [CLEF 2020](https://clef2020.clef-initiative.eu/) will be held online between 22 and 25th September 2020
 * 📆 [SIGIR 2020](http://sigir.org/sigir2020/) will be held online between 25 and 30th July 2020
 
-## 🐾Recent Updates
+## 🐾Recent Activities
 
-| Date | Category | Event |
+| Date | Category | Activity |
 | :--- | :--- | :--- |
 | 📆2020.05.21 | 🏡Misc | Website renewed 🎊 |
 | 📆2020.05.20 | 🏛Community | SIGIR 2020 Best Paper Committee \(Short Papers\) |
@@ -42,7 +42,7 @@ Hideo Joho is an Associate Professor in the Faculty of Library, Information and 
 
 🗺[Google Map](https://goo.gl/maps/dDG44wSZRfkzSwZM6)
 
-## 💡Did you know...?
+## 🤲Tips for Zen Mind
 
 > Somebody's success is not your failure. Somebody's wrongdoing is not your indulgence.
 
