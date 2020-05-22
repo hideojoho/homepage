@@ -6,10 +6,6 @@ description: >-
 
 # Welcome
 
-## 💡Did you know...?
-
-> Somebody's success is not your failure. Somebody's wrongdoing is not your indulgence.
-
 ## 📢Announcement
 
 * 📆 [CLEF 2020](https://clef2020.clef-initiative.eu/) will be held online between 22 and 25th September 2020
@@ -46,5 +42,7 @@ Hideo Joho is an Associate Professor in the Faculty of Library, Information and 
 
 🗺[Google Map](https://goo.gl/maps/dDG44wSZRfkzSwZM6)
 
+## 💡Did you know...?
 
+> Somebody's success is not your failure. Somebody's wrongdoing is not your indulgence.
 
