@@ -17,11 +17,11 @@ description: Human Information Interaction and Information Retrieval
 
 | Date | Category | Event |
 | :--- | :--- | :--- |
-| 2020.05.21 | 🏡Misc | Website renewed 🎊 |
-| 2020.05.20 | 🏛Community | SIGIR 2020 Best Paper Committee \(Short Papers\) |
-| 2020.05.01 | 💎Publication | SIGIR 2020 DC Paper Accepted \(Yanpeng Lin\) 🎉 |
-| 2020.04.27 | 🥋Teaching | Spring Semester Lectures/Lab Started |
-| 2020.03.24 | ⚗Lab | Joint Workshop with KASYS Lab and Y-Lab |
+| 📆2020.05.21 | 🏡Misc | Website renewed 🎊 |
+| 📆2020.05.20 | 🏛Community | SIGIR 2020 Best Paper Committee \(Short Papers\) |
+| 📆2020.05.01 | 💎Publication | SIGIR 2020 DC Paper Accepted \(Yanpeng Lin\) 🎉 |
+| 📆2020.04.27 | 🥋Teaching | Spring Semester Lectures/Lab Started |
+| 📆2020.03.24 | ⚗Lab | Joint Workshop with KASYS Lab and Y-Lab |
 
 ## 👤Biography
 
